@@ -5,6 +5,9 @@
  */
 package quanlykhachsan;
 
+
+
+
 /**
  *
  * @author Trung
@@ -16,6 +19,7 @@ public class QuanLyKhachSan {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+          
     }
     
 }
