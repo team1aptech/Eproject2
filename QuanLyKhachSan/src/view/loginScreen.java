@@ -235,7 +235,7 @@ public class loginScreen extends javax.swing.JFrame {
     private javax.swing.JButton btnLoginExit;
     private javax.swing.JButton btnLoginLogin;
     private javax.swing.JLabel jLabel2;
-    private javax.swing.JPanel jPanel1;
+    private static javax.swing.JPanel jPanel1;
     private javax.swing.JLabel lblLoginUser;
     private javax.swing.JLabel ldbLoginPass;
     private javax.swing.JLabel tittle;
